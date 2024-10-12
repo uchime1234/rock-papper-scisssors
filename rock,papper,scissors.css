@@ -1,0 +1,26 @@
+body {
+    background-color:green ;
+
+}
+
+.legend {
+    background-color: white;
+    width: 130px;
+    height: 70px;
+     position: relative;
+     left: 61vh;
+}
+
+.attempts {
+position: relative;
+bottom: 34px;
+left: 66px;
+
+}
+
+#attemptss {
+    position: relative;
+    bottom: 34px;
+    left: 60px;
+    
+    }
